@@ -21,3 +21,13 @@ Python 3.6.6
 	- pandas - 0.23.4
 	- openpyxl - 2.5.9
 	- cx_Freeze - 5.1.1 (for compiling .exe)
+
+## To Run
+
+Simply run reaction_main.py. 
+
+If you would like to create an executable with cx_Freeze you must use **Python 3.6.6.**
+
+### To create Windows excecutable
+	1. cd into directory
+	2. run: "python setup.py build_exe"
