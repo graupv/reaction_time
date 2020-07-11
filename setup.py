@@ -28,6 +28,6 @@ setup(
     options={'build_exe': build_exe_options},
     executables=[Executable('reaction_main.py', base=base, shortcutName="Tiempo de reaccion", shortcutDir="DesktopFolder", )],
     author='graupv',
-    author_email='gerapv92@gmail.com',
+    author_email=['gerapv92@gmail.com', 'graupvz@gmail.com']
     description='Tiempo de reaccion'
 )
