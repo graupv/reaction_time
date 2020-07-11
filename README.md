@@ -9,7 +9,7 @@ Adds the time difference to a Pandas DataFrame and into an Excel file "resultado
 
 Simple programa con interfaz de tkinter para medir tiempo de reaccion de una persona antes y despues de tomar café. 
 Al mostrarse un mensaje en un intervalo de tiempo aleatorio se presiona un boton. Luego es guardado a un
-archivo excel "resultados.xlsx".
+archivo excel "resultados.xlsx". Desarrollado para un proyecto final de un curso de Estadistica.
 
 ---
 ## Requirements
